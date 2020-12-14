@@ -1,0 +1,25 @@
+{
+  "name": "@legendree/react-simple-tooltip",
+  "version": "1.0.0",
+  "description": "Pure react implementation of a tooltip with fully customizability",
+  "main": "hoverable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legendree/react-simple-tooltip.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "tooltip",
+    "react-tooltip"
+  ],
+  "author": "Denis Polupan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Legendree/react-simple-tooltip/issues"
+  },
+  "homepage": "https://github.com/Legendree/react-simple-tooltip#readme"
+}
