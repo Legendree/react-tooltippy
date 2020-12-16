@@ -1,5 +1,5 @@
 {
-  "name": "@legendree/react-simple-tooltip",
+  "name": "react-tooltippy",
   "version": "1.0.0",
   "description": "Pure react implementation of a tooltip with fully customizability",
   "main": "hoverable.js",

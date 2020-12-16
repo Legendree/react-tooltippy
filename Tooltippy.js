@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Hoverable = ({
+export const Tooltippy = ({
   className,
   classNameTooltip,
   children,
